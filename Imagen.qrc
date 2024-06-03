@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="Logo">
+    <file>Imagenes/Logo_investigacion.png</file>
+  </qresource>
+</RCC>

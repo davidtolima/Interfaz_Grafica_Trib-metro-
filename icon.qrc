@@ -1,0 +1,12 @@
+<RCC>
+  <qresource prefix="Minimizar">
+    <file>Imagenes/minimizar.png</file>
+  </qresource>
+  <qresource prefix="Cerrar">
+    <file>Imagenes/Cerrar.jpeg</file>
+  </qresource>
+  <qresource prefix="Tamaño">
+    <file>Imagenes/resize_minimize_maximize_expand_screen_icon_190599.png</file>
+    <file>Imagenes/resize_minimize_maximize_expand_screen_icon_190627.png</file>
+  </qresource>
+</RCC>
